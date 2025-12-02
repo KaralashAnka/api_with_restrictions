@@ -64,11 +64,11 @@ python manage.py test
 
 ```
 advertisements_project/
-├── manage.py                   # Django management
-├── requirements.txt            # Зависимости
-├── README.md                   # Инструкция
-├── requests-examples.http     # Примеры HTTP запросов
-├── advertisements/            # Приложение
+├── manage.py                 # Django management
+├── requirements.txt          # Зависимости
+├── README.md                 # Инструкция
+├── requests-examples.http    # Примеры HTTP запросов
+├── advertisements/           # Приложение
 │   ├── models.py             # Модели
 │   ├── serializers.py        # Сериализаторы
 │   ├── views.py              # Views
