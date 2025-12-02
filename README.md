@@ -21,7 +21,7 @@ python manage.py createsuperuser
 
 ### Настройка базы данных
 
-По умолчанию используется PostgreSQL. Создайте базу данных:
+Создайте базу данных в PostgreSQL:
 
 ```sql
 CREATE DATABASE advertisements_db;
