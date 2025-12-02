@@ -94,4 +94,22 @@ advertisements_project/
 - ✅ Django админка
 - ✅ Тесты
 - ✅ Документация
+  
+## 👀 Пример работы
+1. Выполненная работа 
+2. Скриншот
+<div align="center">
+  <img src="https://github.com/KaralashAnka/api_with_restrictions/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG" width="400" alt="Объявления в админке"/>
+  <p>Объявления в админке</p>
+</div>
+<div align="center">
+  <img src="https://github.com/KaralashAnka/api_with_restrictions/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.PNG" width="400" alt="Админка главная страница"/>
+  <p>Админка главная страница</p>
+</div>
+3. Полученная схема 
+<div align="center">
+  <img src="https://github.com/KaralashAnka/EnglishCard-Telegram-Bot/blob/main/db_schema.PNG" width="400" alt="Полученная схема"/>
+  <p> </p>
+</div>
 
+---
