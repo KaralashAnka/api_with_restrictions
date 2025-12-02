@@ -66,12 +66,8 @@ python manage.py test
 advertisements_project/
 ├── manage.py                   # Django management
 ├── requirements.txt            # Зависимости
-├── README.md                   # Полная документация
-├── QUICKSTART.md              # Эта инструкция
-├── CODESTYLE.md               # Стандарты кодирования
-├── ADDITIONAL_FEATURES.md     # Дополнительные задания
+├── README.md                   # Инструкция
 ├── requests-examples.http     # Примеры HTTP запросов
-├── setup.sh                   # Скрипт автоустановки
 ├── advertisements/            # Приложение
 │   ├── models.py             # Модели
 │   ├── serializers.py        # Сериализаторы
